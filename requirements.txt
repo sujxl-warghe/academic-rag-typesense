@@ -1,0 +1,10 @@
+tqdm
+langchain_community
+pymupdf
+sentence_transformers
+chromadb
+pypdf
+langchain_groq
+typesense
+langchain
+langchain_huggingface
