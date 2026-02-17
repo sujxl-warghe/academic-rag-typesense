@@ -135,8 +135,8 @@ TYPESENSE_PORT=443
 ## 📥 Installation & Setup
 1️⃣ Clone Repository
 ```
-git clone https://github.com/yourusername/rag-academic-system.git
-cd rag-academic-system
+git clone https://github.com/sujxl-warghe/academic-rag-typesense.git
+cd academic-rag-typesense
 ```
 2️⃣ Install Dependencies
 ```
